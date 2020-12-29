@@ -1,0 +1,2 @@
+(this["webpackJsonpcrwn-clothing"]=this["webpackJsonpcrwn-clothing"]||[]).push([[0],{136:function(e,n,t){"use strict";t.r(n);var c=t(5),o=t(37),r=t(21);n.default=function(){return Object(c.a)("div",{css:{display:"flex",justifyContent:"center",alignItems:"center",color:r.f,fontSize:"1.5rem",height:"calc(100vh - 5rem)"},children:Object(c.b)("p",{children:["Sorry... nothing here."," ",Object(c.a)(o.b,{to:"/crwn-clothing",css:{textDecoration:"none",color:r.e,"&:hover":{textDecoration:"underline"}},children:"Go home"})]})})}}}]);
+//# sourceMappingURL=0.3e4c8ba6.chunk.js.map
